@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Coding Interview University</title>
+  <desc id="desc">A personal fork of the computer-science study plan for software-engineering interviews. The diagram is a conceptual illustration, not a benchmark or application screenshot.</desc>
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="440" rx="24" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="1200" height="440" rx="24" fill="#142920" />
+    <text x="60" y="66" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#b4cc88" text-anchor="start">COMPUTER SCIENCE STUDY PLAN / PERSONAL FORK</text>
+    <text x="60" y="143" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="72" font-weight="650" fill="#f2f0df" text-anchor="start">Coding Interview</text>
+    <text x="60" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="72" font-weight="650" fill="#f2f0df" text-anchor="start">University</text>
+    <path d="M60 283H382" fill="none" stroke="#54705b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <g id="study-stage-0">
+      <text x="60" y="318" font-family="'SFMono-Regular',Menlo,monospace" font-size="20" font-weight="600" fill="#b4cc88" text-anchor="start">01</text>
+      <text x="60" y="360" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="30" font-weight="600" fill="#f2f0df" text-anchor="start">Data structures</text>
+    </g>
+    <path d="M437 283H759" fill="none" stroke="#54705b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <g id="study-stage-1">
+      <text x="437" y="318" font-family="'SFMono-Regular',Menlo,monospace" font-size="20" font-weight="600" fill="#b4cc88" text-anchor="start">02</text>
+      <text x="437" y="360" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="30" font-weight="600" fill="#f2f0df" text-anchor="start">Algorithms</text>
+    </g>
+    <path d="M814 283H1136" fill="none" stroke="#54705b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <g id="study-stage-2">
+      <text x="814" y="318" font-family="'SFMono-Regular',Menlo,monospace" font-size="20" font-weight="600" fill="#b4cc88" text-anchor="start">03</text>
+      <text x="814" y="360" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="30" font-weight="600" fill="#f2f0df" text-anchor="start">Systems</text>
+    </g>
+    <text x="60" y="412" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#b4cc88" text-anchor="start">UPSTREAM: JWASHAM / CODING-INTERVIEW-UNIVERSITY</text>
+  </g>
+</svg>

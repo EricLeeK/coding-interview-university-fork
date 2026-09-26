@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="A personal fork of the computer-science study plan for software-engineering interviews. Conceptual overview.">
+</p>
+
+# Coding Interview University · Personal Fork
+
+A personal learning copy of the computer-science study plan for software-engineering interviews. The original curriculum, translations, and resource links follow below.
+
+**Upstream:** [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university). Original authorship, attribution, license information, and learning resources are preserved.
+
+---
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
@@ -2019,3 +2031,10 @@ Sit back and enjoy.
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+
+<details>
+<summary>Static overview</summary>
+
+[Open the static SVG](./assets/readme/hero.svg).
+
+</details>

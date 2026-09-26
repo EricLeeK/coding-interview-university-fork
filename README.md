@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.gif" width="100%" alt="A personal fork of the computer-science study plan for software-engineering interviews. Conceptual overview.">
+  <img src="./assets/readme/hero.gif" width="100%" alt="计算机科学学习计划个人 fork；二叉搜索树按 8、3、6 的顺序查找 6，配合中序遍历示意，保留 jwasham 原作者归属。">
 </p>
 
 # Coding Interview University · Personal Fork
